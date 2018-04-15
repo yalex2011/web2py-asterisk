@@ -1,0 +1,1310 @@
+(dp1
+S'output'
+p2
+S'<class \'gluon.contrib.pymysql.err.OperationalError\'> (1142, u"CREATE command denied to user \'asterisk\'@\'localhost\' for table \'auth_user\'")'
+p3
+sS'layer'
+p4
+S'/home/yalex/web2py/applications/asterisk/models/db.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7f58c4704630, file "/home/yalex/web2py/applications/asterisk/models/db.py", line 12>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__module__'
+p12
+S"'gluon.contrib.pymysql.err'"
+p13
+sS'__getslice__'
+p14
+S"<method-wrapper '__getslice__' of OperationalError object>"
+p15
+sS'__str__'
+p16
+S"<method-wrapper '__str__' of OperationalError object>"
+p17
+sS'__reduce__'
+p18
+S'<built-in method __reduce__ of OperationalError object>'
+p19
+sS'__dict__'
+p20
+S'{}'
+p21
+sS'__sizeof__'
+p22
+S'<built-in method __sizeof__ of OperationalError object>'
+p23
+sS'__weakref__'
+p24
+S'None'
+p25
+sS'message'
+p26
+S"''"
+p27
+sS'__init__'
+p28
+S"<method-wrapper '__init__' of OperationalError object>"
+p29
+sS'__setattr__'
+p30
+S"<method-wrapper '__setattr__' of OperationalError object>"
+p31
+sS'__reduce_ex__'
+p32
+S'<built-in method __reduce_ex__ of OperationalError object>'
+p33
+sS'__new__'
+p34
+S'<built-in method __new__ of type object>'
+p35
+sS'__format__'
+p36
+S'<built-in method __format__ of OperationalError object>'
+p37
+sS'__class__'
+p38
+S"<class 'gluon.contrib.pymysql.err.OperationalError'>"
+p39
+sS'__doc__'
+p40
+S"'Exception raised for errors that are related to ...cation\\n    error occurred during processing, etc.'"
+p41
+sS'__getitem__'
+p42
+S"<method-wrapper '__getitem__' of OperationalError object>"
+p43
+sS'__setstate__'
+p44
+S'<built-in method __setstate__ of OperationalError object>'
+p45
+sS'__getattribute__'
+p46
+S"<method-wrapper '__getattribute__' of OperationalError object>"
+p47
+sS'args'
+p48
+S'(1142, u"CREATE command denied to user \'asterisk\'@\'localhost\' for table \'auth_user\'")'
+p49
+sS'__subclasshook__'
+p50
+S'<built-in method __subclasshook__ of type object>'
+p51
+sS'__unicode__'
+p52
+S'<built-in method __unicode__ of OperationalError object>'
+p53
+sS'__delattr__'
+p54
+S"<method-wrapper '__delattr__' of OperationalError object>"
+p55
+sS'__repr__'
+p56
+S"<method-wrapper '__repr__' of OperationalError object>"
+p57
+sS'__hash__'
+p58
+S"<method-wrapper '__hash__' of OperationalError object>"
+p59
+ssS'evalue'
+p60
+S'(1142, u"CREATE command denied to user \'asterisk\'@\'localhost\' for table \'auth_user\'")'
+p61
+sS'request'
+p62
+cgluon.html
+XML_unpickle
+p63
+(S's\xebV\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>asterisk</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>c583401126164</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>appadmin</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_admin</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-8c28a4f0-2993-42d6-8fba-8ec2a5a35213<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div>application/x-www-form-urlencoded; charset=UTF-8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>*/*</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>ru-RU,ru;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div>application/x-www-form-urlencoded; charset=UTF-8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_admin=127.0.0.1-8c28a4f0-2993-42d6-8fba-8ec2a5a35213</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/admin/default/edit/asterisk/models/db.py?id=models__db__py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) QupZilla/2.1.2 Chrome/56.0.2924.122 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_WEB2PY_COMPONENT_ELEMENT</td><td style="vertical-align:top;">:</td><td><div>c583401126164</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_WEB2PY_COMPONENT_LOCATION</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/admin/default/edit/asterisk/models/db.py?id=models__db__py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_X_REQUESTED_WITH</td><td style="vertical-align:top;">:</td><td><div>XMLHttpRequest</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/asterisk/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>42766</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>yalex-desktop</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;/home/yalex/web2py/applications/asterisk/&#x27;, &#x27;/home/yalex/web2py/applications/admin/&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>/home/yalex/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x7f58df895ea8: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;yalex-desktop&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;/home/yalex/web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_type</td><td style="vertical-align:top;">:</td><td><div>application/x-www-form-urlencoded; charset=UTF-8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>/home/yalex/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>*/*</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>ru-RU,ru;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_type</td><td style="vertical-align:top;">:</td><td><div>application/x-www-form-urlencoded; charset=UTF-8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_admin=127.0.0.1-8c28a4f0-2993-42d6-8fba-8ec2a5a35213</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/admin/default/edit/asterisk/models/db.py?id=models__db__py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) QupZilla/2.1.2 Chrome/56.0.2924.122 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_web2py_component_element</td><td style="vertical-align:top;">:</td><td><div>c583401126164</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_web2py_component_location</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/admin/default/edit/asterisk/models/db.py?id=models__db__py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_x_requested_with</td><td style="vertical-align:top;">:</td><td><div>XMLHttpRequest</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>127.0.1.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>yalex-desktop</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/asterisk/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>42766</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/asterisk/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>yalex-desktop</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>/home/yalex/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.16.1-stable+timestamp.2017.11.14.05.54.25</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x7f58e50f81e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x7f58dffa39a8&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x7f58c494ef50&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x7f58e50f81e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x7f58dffa39a8&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x7f58c494ef50&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>/home/yalex/web2py/applications/asterisk/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;/home/yalex/web2py/applications/asterisk/&#x27;, &#x27;/home/yalex/web2py/applications/admin/&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>/home/yalex/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x7f58df895ea8: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;yalex-desktop&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;/home/yalex/web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>/home/yalex/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>127.0.1.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>yalex-desktop</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.16.1-stable+timestamp.2017.11.14.05.54.25</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2018, 1, 14, 13, 6, 38, 47743)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/asterisk/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2018, 1, 14, 8, 6, 38, 47772)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x7f58c4aefd50&gt;</div></td></tr></table></div>'
+tRp64
+sS'frames'
+p65
+(lp66
+(dp67
+S'file'
+p68
+S'/home/yalex/web2py/gluon/restricted.py'
+p69
+sS'dump'
+p70
+(dp71
+S'environment'
+p72
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, 'CAT': <class 'gluon.html.CAT'>, ...}"
+p73
+sS'ccode'
+p74
+S'<code object <module> at 0x7f58c4704630, file "/...2py/applications/asterisk/models/db.py", line 12>'
+p75
+ssS'lnum'
+p76
+I219
+sS'lines'
+p77
+(dp78
+I214
+S'    if environment is None:'
+p79
+sI215
+S'        environment = {}'
+p80
+sI216
+S"    environment['__file__'] = layer"
+p81
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p82
+sI218
+S'    try:'
+p83
+sI219
+S'        exec(ccode, environment)'
+p84
+sI220
+S'    except HTTP:'
+p85
+sI221
+S'        raise'
+p86
+sI222
+S'    except RestrictedError:'
+p87
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p88
+ssS'call'
+p89
+S'(ccode=<code object <module> at 0x7f58c4704630, file "/...2py/applications/asterisk/models/db.py", line 12>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, \'CAT\': <class \'gluon.html.CAT\'>, ...}, layer=\'/home/yalex/web2py/applications/asterisk/models/db.py\', scode=<code object <module> at 0x7f58c4704630, file "/...2py/applications/asterisk/models/db.py", line 12>)'
+p90
+sS'func'
+p91
+S'restricted'
+p92
+sa(dp93
+g68
+S'/home/yalex/web2py/applications/asterisk/models/db.py'
+p94
+sg70
+(dp95
+S'username'
+p96
+S'undefined'
+p97
+sS'builtinFalse'
+p98
+S'False'
+p99
+sS'builtinTrue'
+p100
+S'True'
+p101
+sS'auth'
+p102
+S'<gluon.tools.Auth object>'
+p103
+sS'auth.define_tables'
+p104
+S'<bound method Auth.define_tables of <gluon.tools.Auth object>>'
+p105
+sS'signature'
+p106
+g97
+ssg76
+I49
+sg77
+(dp107
+I44
+S'from gluon.tools import Auth, Crud, Service, PluginManager, prettydate'
+p108
+sI45
+S'auth = Auth(db)'
+p109
+sI46
+S'crud, service, plugins = Crud(db), Service(), PluginManager()'
+p110
+sI47
+S''
+sI48
+S'## create all tables needed by auth if not custom tables'
+p111
+sI49
+S'auth.define_tables(username=True, signature=False)'
+p112
+sI50
+S''
+sI51
+S'## configure email'
+p113
+sI52
+S'mail = auth.settings.mailer'
+p114
+sI53
+S"mail.settings.server = 'logging' or 'smtp.gmail.com:587'"
+p115
+ssg89
+S'()'
+p116
+sg91
+S'<module>'
+p117
+sa(dp118
+g68
+S'/home/yalex/web2py/gluon/tools.py'
+p119
+sg70
+(dp120
+S'username'
+p121
+g101
+sS'migrate'
+p122
+g101
+sS'self'
+p123
+S'<gluon.tools.Auth object>'
+p124
+sS'fake_migrate'
+p125
+g99
+sS'global Auth'
+p126
+S"<class 'gluon.tools.Auth'>"
+p127
+sS')._table_signature_list'
+p128
+g97
+sS'signature'
+p129
+g99
+sS'builtinsuper'
+p130
+S"<type 'super'>"
+p131
+sS').define_tables'
+p132
+S'<bound method Auth.define_tables of <gluon.tools.Auth object>>'
+p133
+ssg76
+I2216
+sg77
+(dp134
+I2211
+S'        if fake_migrate is None:'
+p135
+sI2212
+S'            fake_migrate = db._fake_migrate'
+p136
+sI2213
+S'        settings = self.settings'
+p137
+sI2214
+S'        settings.enable_tokens = enable_tokens'
+p138
+sI2215
+S'        signature_list = \\'
+p139
+sI2216
+S'            super(Auth, self).define_tables(username, signature, migrate, fake_migrate)._table_signature_list'
+p140
+sI2217
+S''
+sI2218
+S'        now = current.request.now'
+p141
+sI2219
+S"        reference_table_user = 'reference %s' % settings.table_user_name"
+p142
+sI2220
+S'        if settings.cas_domains:'
+p143
+ssg89
+S'(self=<gluon.tools.Auth object>, username=True, signature=False, enable_tokens=False, migrate=True, fake_migrate=False)'
+p144
+sg91
+S'define_tables'
+p145
+sa(dp146
+g68
+S'/home/yalex/web2py/gluon/authapi.py'
+p147
+sg70
+(dp148
+S'builtinformat'
+p149
+S'<built-in function format>'
+p150
+ssg76
+I320
+sg77
+(dp151
+I320
+S"                        format='%(username)s'))"
+p152
+sI321
+S'            else:'
+p153
+sI322
+S'                db.define_table('
+p154
+sI323
+S'                    settings.table_user_name,'
+p155
+sI324
+S"                    Field('first_name', length=128, default='',"
+p156
+sI315
+S'                    *extra_fields,'
+p157
+sI316
+S'                    **dict('
+p158
+sI317
+S'                        migrate=self._get_migrate(settings.table_user_name,'
+p159
+sI318
+S'                                                  migrate),'
+p160
+sI319
+S'                        fake_migrate=fake_migrate,'
+p161
+ssg89
+S'(self=<gluon.tools.Auth object>, username=True, signature=False, migrate=True, fake_migrate=False)'
+p162
+sg91
+g145
+sa(dp163
+g68
+S'/home/yalex/web2py/gluon/packages/dal/pydal/base.py'
+p164
+sg70
+(dp165
+S'fields'
+p166
+S'(<pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>)'
+p167
+sS'self'
+p168
+S'<DAL uri="mysql:******@localhost/asterisk">'
+p169
+sS'args'
+p170
+S"{'fake_migrate': False, 'format': '%(username)s', 'migrate': True}"
+p171
+sS'tablename'
+p172
+S"'auth_user'"
+p173
+sS'table'
+p174
+g97
+sS'self.lazy_define_table'
+p175
+S'<bound method DAL.lazy_define_table of <DAL uri="mysql:******@localhost/asterisk">>'
+p176
+ssg76
+I586
+sg77
+(dp177
+I581
+S'                                  (tablename, invalid_args))'
+p178
+sI582
+S'        if self._lazy_tables and tablename not in self._LAZY_TABLES:'
+p179
+sI583
+S'            self._LAZY_TABLES[tablename] = (tablename, fields, args)'
+p180
+sI584
+S'            table = None'
+p181
+sI585
+S'        else:'
+p182
+sI586
+S'            table = self.lazy_define_table(tablename, *fields, **args)'
+p183
+sI587
+S'        if tablename not in self.tables:'
+p184
+sI588
+S'            self.tables.append(tablename)'
+p185
+sI589
+S'        return table'
+p186
+sI590
+S''
+ssg89
+S'(self=<DAL uri="mysql:******@localhost/asterisk">, tablename=\'auth_user\', *fields=(<pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>), **args={\'fake_migrate\': False, \'format\': \'%(username)s\', \'migrate\': True})'
+p187
+sg91
+S'define_table'
+p188
+sa(dp189
+g68
+S'/home/yalex/web2py/gluon/packages/dal/pydal/base.py'
+p190
+sg70
+(dp191
+S'polymodel'
+p192
+S'None'
+p193
+ssg76
+I620
+sg77
+(dp194
+I615
+S'            try:'
+p195
+sI616
+S'                GLOBAL_LOCKER.acquire()'
+p196
+sI617
+S'                self._adapter.create_table('
+p197
+sI618
+S'                    table, migrate=migrate,'
+p198
+sI619
+S'                    fake_migrate=fake_migrate,'
+p199
+sI620
+S'                    polymodel=polymodel)'
+p200
+sI621
+S'            finally:'
+p201
+sI622
+S'                GLOBAL_LOCKER.release()'
+p202
+sI623
+S'        else:'
+p203
+sI624
+S'            table._dbt = None'
+p204
+ssg89
+S'(self=<DAL uri="mysql:******@localhost/asterisk">, tablename=\'auth_user\', *fields=(<pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>), **args={\'fake_migrate\': False, \'format\': \'%(username)s\', \'migrate\': True})'
+p205
+sg91
+S'lazy_define_table'
+p206
+sa(dp207
+g68
+S'/home/yalex/web2py/gluon/packages/dal/pydal/adapters/base.py'
+p208
+sg70
+(dp209
+S'self'
+p210
+S'<pydal.adapters.mysql.MySQL object>'
+p211
+sS'args'
+p212
+S'(<Table auth_user (id, first_name, last_name, ema...ration_key, reset_password_key, registration_id)>,)'
+p213
+sS'self.migrator'
+p214
+S'<pydal.migrator.Migrator object>'
+p215
+sS'self.migrator.create_table'
+p216
+S'<bound method Migrator.create_table of <pydal.migrator.Migrator object>>'
+p217
+sS'kwargs'
+p218
+S"{'fake_migrate': False, 'migrate': True, 'polymodel': None}"
+p219
+ssg76
+I797
+sg77
+(dp220
+I800
+S'        super(SQLAdapter, self)._drop_table_cleanup(table)'
+p221
+sI801
+S'        if table._dbt:'
+p222
+sI792
+S''
+sI793
+S'    def bulk_insert(self, table, items):'
+p223
+sI794
+S'        return [self.insert(table, item) for item in items]'
+p224
+sI795
+S''
+sI796
+S'    def create_table(self, *args, **kwargs):'
+p225
+sI797
+S'        return self.migrator.create_table(*args, **kwargs)'
+p226
+sI798
+S''
+sI799
+S'    def _drop_table_cleanup(self, table):'
+p227
+ssg89
+S"(self=<pydal.adapters.mysql.MySQL object>, *args=(<Table auth_user (id, first_name, last_name, ema...ration_key, reset_password_key, registration_id)>,), **kwargs={'fake_migrate': False, 'migrate': True, 'polymodel': None})"
+p228
+sg91
+S'create_table'
+p229
+sa(dp230
+g68
+S'/home/yalex/web2py/gluon/packages/dal/pydal/migrator.py'
+p231
+sg70
+(dp232
+S'query'
+p233
+S"'CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;'"
+p234
+sS'self'
+p235
+S'<pydal.migrator.Migrator object>'
+p236
+sS'self.adapter'
+p237
+S'<pydal.adapters.mysql.MySQL object>'
+p238
+sS'self.adapter.create_sequence_and_triggers'
+p239
+S'<bound method MySQL.create_sequence_and_triggers of <pydal.adapters.mysql.MySQL object>>'
+p240
+sS'table'
+p241
+S'<Table auth_user (id, first_name, last_name, ema...ration_key, reset_password_key, registration_id)>'
+p242
+ssg76
+I277
+sg77
+(dp243
+I272
+S'            if table._dbt:'
+p244
+sI273
+S"                self.log('timestamp: %s\\n%s\\n'"
+p245
+sI274
+S'                         % (datetime.datetime.today().isoformat(),'
+p246
+sI275
+S'                            query), table)'
+p247
+sI276
+S'            if not fake_migrate:'
+p248
+sI277
+S'                self.adapter.create_sequence_and_triggers(query, table)'
+p249
+sI278
+S'                db.commit()'
+p250
+sI279
+S'                # Postgres geom fields are added now,'
+p251
+sI280
+S'                # after the table has been created'
+p252
+sI281
+S'                for query in postcreation_fields:'
+p253
+ssg89
+S'(self=<pydal.migrator.Migrator object>, table=<Table auth_user (id, first_name, last_name, ema...ration_key, reset_password_key, registration_id)>, migrate=True, fake_migrate=False, polymodel=None)'
+p254
+sg91
+g229
+sa(dp255
+g68
+S'/home/yalex/web2py/gluon/packages/dal/pydal/adapters/base.py'
+p256
+sg70
+(dp257
+S'query'
+p258
+S"'CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;'"
+p259
+sS'self'
+p260
+S'<pydal.adapters.mysql.MySQL object>'
+p261
+sS'self.execute'
+p262
+S'<bound method MySQL.wrap of <pydal.adapters.mysql.MySQL object>>'
+p263
+ssg76
+I880
+sg77
+(dp264
+I875
+S'    @with_connection'
+p265
+sI876
+S'    def rollback_prepared(self, key):'
+p266
+sI877
+S'        self.connection.rollback()'
+p267
+sI878
+S''
+sI879
+S'    def create_sequence_and_triggers(self, query, table, **args):'
+p268
+sI880
+S'        self.execute(query)'
+p269
+sI881
+S''
+sI882
+S'    def sqlsafe_table(self, tablename, original_tablename=None):'
+p270
+sI883
+S'        if original_tablename is not None:'
+p271
+sI884
+S'            return self.dialect.alias(original_tablename, tablename)'
+p272
+ssg89
+S"(self=<pydal.adapters.mysql.MySQL object>, query='CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;', table=<Table auth_user (id, first_name, last_name, ema...ration_key, reset_password_key, registration_id)>, **args={})"
+p273
+sg91
+S'create_sequence_and_triggers'
+p274
+sa(dp275
+g68
+S'/home/yalex/web2py/gluon/packages/dal/pydal/adapters/__init__.py'
+p276
+sg70
+(dp277
+S'kwargs'
+p278
+g21
+sS'args'
+p279
+S"(<pydal.adapters.mysql.MySQL object>, 'CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;')"
+p280
+sS'f'
+S'<function execute>'
+p281
+ssg76
+I67
+sg77
+(dp282
+I64
+S'            if len(args) > 1:'
+p283
+sI65
+S'                raise ValueError(args[1])'
+p284
+sI66
+S"            raise RuntimeError('no connection available')"
+p285
+sI67
+S'        return f(*args, **kwargs)'
+p286
+sI68
+S'    return wrap'
+p287
+sI69
+S''
+sI70
+S''
+sI71
+S'from .base import SQLAdapter, NoSQLAdapter'
+p288
+sI62
+S'    def wrap(*args, **kwargs):'
+p289
+sI63
+S'        if not args[0].connection:'
+p290
+ssg89
+S"(*args=(<pydal.adapters.mysql.MySQL object>, 'CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;'), **kwargs={})"
+p291
+sg91
+S'wrap'
+p292
+sa(dp293
+g68
+S'/home/yalex/web2py/gluon/packages/dal/pydal/adapters/base.py'
+p294
+sg70
+(dp295
+S'rv'
+p296
+g97
+sS'self'
+p297
+S'<pydal.adapters.mysql.MySQL object>'
+p298
+sS'args'
+p299
+S"('CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;',)"
+p300
+sS'self.cursor'
+p301
+S'<gluon.contrib.pymysql.cursors.Cursor object>'
+p302
+sS'command'
+p303
+S"'CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;'"
+p304
+sS'self.cursor.execute'
+p305
+S'<bound method Cursor.execute of <gluon.contrib.pymysql.cursors.Cursor object>>'
+p306
+sS'kwargs'
+p307
+g21
+ssg76
+I412
+sg77
+(dp308
+I416
+S''
+sI407
+S'    def execute(self, *args, **kwargs):'
+p309
+sI408
+S'        command = self.filter_sql_command(args[0])'
+p310
+sI409
+S'        handlers = self._build_handlers_for_execution()'
+p311
+sI410
+S'        for handler in handlers:'
+p312
+sI411
+S'            handler.before_execute(command)'
+p313
+sI412
+S'        rv = self.cursor.execute(command, *args[1:], **kwargs)'
+p314
+sI413
+S'        for handler in handlers:'
+p315
+sI414
+S'            handler.after_execute(command)'
+p316
+sI415
+S'        return rv'
+p317
+ssg89
+S"(self=<pydal.adapters.mysql.MySQL object>, *args=('CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;',), **kwargs={})"
+p318
+sg91
+S'execute'
+p319
+sa(dp320
+g68
+S'/home/yalex/web2py/gluon/contrib/pymysql/cursors.py'
+p321
+sg70
+(dp322
+S'query'
+p323
+S"'CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;'"
+p324
+sS'self'
+p325
+S'<gluon.contrib.pymysql.cursors.Cursor object>'
+p326
+sS'result'
+p327
+g97
+sS'self._query'
+p328
+S'<bound method Cursor._query of <gluon.contrib.pymysql.cursors.Cursor object>>'
+p329
+ssg76
+I166
+sg77
+(dp330
+I161
+S'        while self.nextset():'
+p331
+sI162
+S'            pass'
+p332
+sI163
+S''
+sI164
+S'        query = self.mogrify(query, args)'
+p333
+sI165
+S''
+sI166
+S'        result = self._query(query)'
+p334
+sI167
+S'        self._executed = query'
+p335
+sI168
+S'        return result'
+p336
+sI169
+S''
+sI170
+S'    def executemany(self, query, args):'
+p337
+ssg89
+S"(self=<gluon.contrib.pymysql.cursors.Cursor object>, query='CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;', args=None)"
+p338
+sg91
+g319
+sa(dp339
+g68
+S'/home/yalex/web2py/gluon/contrib/pymysql/cursors.py'
+p340
+sg70
+(dp341
+S'q'
+S"'CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;'"
+p342
+sS'conn.query'
+p343
+S'<bound method Connection.query of <gluon.contrib.pymysql.connections.Connection object>>'
+p344
+sS'conn'
+p345
+S'<gluon.contrib.pymysql.connections.Connection object>'
+p346
+ssg76
+I322
+sg77
+(dp347
+I320
+S'        conn = self._get_db()'
+p348
+sI321
+S'        self._last_executed = q'
+p349
+sI322
+S'        conn.query(q)'
+p350
+sI323
+S'        self._do_get_result()'
+p351
+sI324
+S'        return self.rowcount'
+p352
+sI325
+S''
+sI326
+S'    def _do_get_result(self):'
+p353
+sI317
+S'        self.rownumber = r'
+p354
+sI318
+S''
+sI319
+S'    def _query(self, q):'
+p355
+ssg89
+S"(self=<gluon.contrib.pymysql.cursors.Cursor object>, q='CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;')"
+p356
+sg91
+S'_query'
+p357
+sa(dp358
+g68
+S'/home/yalex/web2py/gluon/contrib/pymysql/connections.py'
+p359
+sg70
+(dp360
+S'self._read_query_result'
+p361
+S'<bound method Connection._read_query_result of <...n.contrib.pymysql.connections.Connection object>>'
+p362
+sS'self'
+p363
+S'<gluon.contrib.pymysql.connections.Connection object>'
+p364
+sS'unbuffered'
+p365
+g99
+sS'self._affected_rows'
+p366
+S'0'
+ssg76
+I835
+sg77
+(dp367
+I832
+S'            else:'
+p368
+sI833
+S"                sql = sql.encode(self.encoding, 'surrogateescape')"
+p369
+sI834
+S'        self._execute_command(COMMAND.COM_QUERY, sql)'
+p370
+sI835
+S'        self._affected_rows = self._read_query_result(unbuffered=unbuffered)'
+p371
+sI836
+S'        return self._affected_rows'
+p372
+sI837
+S''
+sI838
+S'    def next_result(self, unbuffered=False):'
+p373
+sI839
+S'        self._affected_rows = self._read_query_result(unbuffered=unbuffered)'
+p374
+sI830
+S'            if PY2:'
+p375
+sI831
+S'                sql = sql.encode(self.encoding)'
+p376
+ssg89
+S"(self=<gluon.contrib.pymysql.connections.Connection object>, sql='CREATE TABLE `auth_user`(\\n    `id` INT AUTO_INCR...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;', unbuffered=False)"
+p377
+sg91
+S'query'
+p378
+sa(dp379
+g68
+S'/home/yalex/web2py/gluon/contrib/pymysql/connections.py'
+p380
+sg70
+(dp381
+S'result.read'
+p382
+S'<bound method MySQLResult.read of <gluon.contrib.pymysql.connections.MySQLResult object>>'
+p383
+sS'result'
+p384
+S'<gluon.contrib.pymysql.connections.MySQLResult object>'
+p385
+ssg76
+I1019
+sg77
+(dp386
+I1014
+S'                result.unbuffered_active = False'
+p387
+sI1015
+S'                result.connection = None'
+p388
+sI1016
+S'                raise'
+p389
+sI1017
+S'        else:'
+p390
+sI1018
+S'            result = MySQLResult(self)'
+p391
+sI1019
+S'            result.read()'
+p392
+sI1020
+S'        self._result = result'
+p393
+sI1021
+S'        if result.server_status is not None:'
+p394
+sI1022
+S'            self.server_status = result.server_status'
+p395
+sI1023
+S'        return result.affected_rows'
+p396
+ssg89
+S'(self=<gluon.contrib.pymysql.connections.Connection object>, unbuffered=False)'
+p397
+sg91
+S'_read_query_result'
+p398
+sa(dp399
+g68
+S'/home/yalex/web2py/gluon/contrib/pymysql/connections.py'
+p400
+sg70
+(dp401
+S'first_packet'
+p402
+g97
+sS'self'
+p403
+S'<gluon.contrib.pymysql.connections.MySQLResult object>'
+p404
+sS'self.connection'
+p405
+S'None'
+p406
+sS'self.connection._read_packet'
+p407
+g97
+ssg76
+I1302
+sg77
+(dp408
+I1297
+S'        if self.unbuffered_active:'
+p409
+sI1298
+S'            self._finish_unbuffered_query()'
+p410
+sI1299
+S''
+sI1300
+S'    def read(self):'
+p411
+sI1301
+S'        try:'
+p412
+sI1302
+S'            first_packet = self.connection._read_packet()'
+p413
+sI1303
+S''
+sI1304
+S'            if first_packet.is_ok_packet():'
+p414
+sI1305
+S'                self._read_ok_packet(first_packet)'
+p415
+sI1306
+S'            elif first_packet.is_load_local_packet():'
+p416
+ssg89
+S'(self=<gluon.contrib.pymysql.connections.MySQLResult object>)'
+p417
+sg91
+S'read'
+p418
+sa(dp419
+g68
+S'/home/yalex/web2py/gluon/contrib/pymysql/connections.py'
+p420
+sg70
+(dp421
+S'packet'
+p422
+S'<gluon.contrib.pymysql.connections.MysqlPacket object>'
+p423
+sS'packet.check_error'
+p424
+S'<bound method MysqlPacket.check_error of <gluon.contrib.pymysql.connections.MysqlPacket object>>'
+p425
+ssg76
+I981
+sg77
+(dp426
+I976
+S'                continue'
+p427
+sI977
+S'            if bytes_to_read < MAX_PACKET_LEN:'
+p428
+sI978
+S'                break'
+p429
+sI979
+S''
+sI980
+S'        packet = packet_type(buff, self.encoding)'
+p430
+sI981
+S'        packet.check_error()'
+p431
+sI982
+S'        return packet'
+p432
+sI983
+S''
+sI984
+S'    def _read_bytes(self, num_bytes):'
+p433
+sI985
+S'        self._sock.settimeout(self._read_timeout)'
+p434
+ssg89
+S"(self=<gluon.contrib.pymysql.connections.Connection object>, packet_type=<class 'gluon.contrib.pymysql.connections.MysqlPacket'>)"
+p435
+sg91
+S'_read_packet'
+p436
+sa(dp437
+g68
+S'/home/yalex/web2py/gluon/contrib/pymysql/connections.py'
+p438
+sg70
+(dp439
+S'self._data'
+p440
+S'"\\xffv\\x04#42000CREATE command denied to user \'asterisk\'@\'localhost\' for table \'auth_user\'"'
+p441
+sS'self'
+p442
+S'<gluon.contrib.pymysql.connections.MysqlPacket object>'
+p443
+sS'global err'
+p444
+S"<module 'gluon.contrib.pymysql.err' from '/home/yalex/web2py/gluon/contrib/pymysql/err.py'>"
+p445
+sS'err.raise_mysql_exception'
+p446
+S'<function raise_mysql_exception>'
+p447
+ssg76
+I393
+sg77
+(dp448
+I388
+S'        if self.is_error_packet():'
+p449
+sI389
+S'            self.rewind()'
+p450
+sI390
+S'            self.advance(1)  # field_count == error (we already know that)'
+p451
+sI391
+S'            errno = self.read_uint16()'
+p452
+sI392
+S'            if DEBUG: print("errno =", errno)'
+p453
+sI393
+S'            err.raise_mysql_exception(self._data)'
+p454
+sI394
+S''
+sI395
+S'    def dump(self):'
+p455
+sI396
+S'        dump_packet(self._data)'
+p456
+sI397
+S''
+ssg89
+S'(self=<gluon.contrib.pymysql.connections.MysqlPacket object>)'
+p457
+sg91
+S'check_error'
+p458
+sa(dp459
+g68
+S'/home/yalex/web2py/gluon/contrib/pymysql/err.py'
+p460
+sg70
+(dp461
+S'errorclass'
+p462
+S"<class 'gluon.contrib.pymysql.err.OperationalError'>"
+p463
+sS'errno'
+p464
+S'1142'
+p465
+sS'errval'
+p466
+S'u"CREATE command denied to user \'asterisk\'@\'localhost\' for table \'auth_user\'"'
+p467
+ssg76
+I107
+sg77
+(dp468
+I98
+S'def raise_mysql_exception(data):'
+p469
+sI99
+S"    errno = struct.unpack('<h', data[1:3])[0]"
+p470
+sI100
+S'    is_41 = data[3:4] == b"#"'
+p471
+sI101
+S'    if is_41:'
+p472
+sI102
+S'        # client protocol 4.1'
+p473
+sI103
+S"        errval = data[9:].decode('utf-8', 'replace')"
+p474
+sI104
+S'    else:'
+p475
+sI105
+S"        errval = data[3:].decode('utf-8', 'replace')"
+p476
+sI106
+S'    errorclass = error_map.get(errno, InternalError)'
+p477
+sI107
+S'    raise errorclass(errno, errval)'
+p478
+ssg89
+S'(data="\\xffv\\x04#42000CREATE command denied to user \'asterisk\'@\'localhost\' for table \'auth_user\'")'
+p479
+sg91
+S'raise_mysql_exception'
+p480
+sasS'pyver'
+p481
+S'Python 2.7.14: /usr/bin/python (prefix: /usr)'
+p482
+sS'session'
+p483
+g63
+(S's\x1a\x00\x00\x00<div><table></table></div>'
+tRp484
+sS'etype'
+p485
+S"<class 'gluon.contrib.pymysql.err.OperationalError'>"
+p486
+sS'date'
+p487
+S'Sun Jan 14 13:06:38 2018'
+p488
+sS'response'
+p489
+g63
+(S's0\x16\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x7f58c46c28f0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_asterisk</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-a5fbd5bf-e301-40eb-b0c4-35ccb928d9c7<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div>: </div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>table3cols</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>*</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^appadmin/\\w+\\.py$</div></td></tr><tr><td><div>^appadmin/hooks/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_asterisk</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>/home/yalex/web2py/applications/asterisk/sessions/127.0.0.1-a5fbd5bf-e301-40eb-b0c4-35ccb928d9c7</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>c0762cbf4baf7f9af97c051e7fcb8083</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-a5fbd5bf-e301-40eb-b0c4-35ccb928d9c7</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_asterisk</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>asterisk</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>appadmin/hooks.html</div></td></tr></table></div>'
+tRp490
+sS'locals'
+p491
+(dp492
+S'errorclass'
+p493
+S"<class 'gluon.contrib.pymysql.err.OperationalError'>"
+p494
+sS'errno'
+p495
+S'1142'
+p496
+sS'is_41'
+p497
+g101
+sS'errval'
+p498
+S'u"CREATE command denied to user \'asterisk\'@\'localhost\' for table \'auth_user\'"'
+p499
+sS'data'
+p500
+S'"\\xffv\\x04#42000CREATE command denied to user \'asterisk\'@\'localhost\' for table \'auth_user\'"'
+p501
+sssS'traceback'
+p502
+S'Traceback (most recent call last):\n  File "/home/yalex/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/yalex/web2py/applications/asterisk/models/db.py", line 49, in <module>\n    auth.define_tables(username=True, signature=False)\n  File "/home/yalex/web2py/gluon/tools.py", line 2216, in define_tables\n    super(Auth, self).define_tables(username, signature, migrate, fake_migrate)._table_signature_list\n  File "/home/yalex/web2py/gluon/authapi.py", line 320, in define_tables\n    format=\'%(username)s\'))\n  File "/home/yalex/web2py/gluon/packages/dal/pydal/base.py", line 586, in define_table\n    table = self.lazy_define_table(tablename, *fields, **args)\n  File "/home/yalex/web2py/gluon/packages/dal/pydal/base.py", line 620, in lazy_define_table\n    polymodel=polymodel)\n  File "/home/yalex/web2py/gluon/packages/dal/pydal/adapters/base.py", line 797, in create_table\n    return self.migrator.create_table(*args, **kwargs)\n  File "/home/yalex/web2py/gluon/packages/dal/pydal/migrator.py", line 277, in create_table\n    self.adapter.create_sequence_and_triggers(query, table)\n  File "/home/yalex/web2py/gluon/packages/dal/pydal/adapters/base.py", line 880, in create_sequence_and_triggers\n    self.execute(query)\n  File "/home/yalex/web2py/gluon/packages/dal/pydal/adapters/__init__.py", line 67, in wrap\n    return f(*args, **kwargs)\n  File "/home/yalex/web2py/gluon/packages/dal/pydal/adapters/base.py", line 412, in execute\n    rv = self.cursor.execute(command, *args[1:], **kwargs)\n  File "/home/yalex/web2py/gluon/contrib/pymysql/cursors.py", line 166, in execute\n    result = self._query(query)\n  File "/home/yalex/web2py/gluon/contrib/pymysql/cursors.py", line 322, in _query\n    conn.query(q)\n  File "/home/yalex/web2py/gluon/contrib/pymysql/connections.py", line 835, in query\n    self._affected_rows = self._read_query_result(unbuffered=unbuffered)\n  File "/home/yalex/web2py/gluon/contrib/pymysql/connections.py", line 1019, in _read_query_result\n    result.read()\n  File "/home/yalex/web2py/gluon/contrib/pymysql/connections.py", line 1302, in read\n    first_packet = self.connection._read_packet()\n  File "/home/yalex/web2py/gluon/contrib/pymysql/connections.py", line 981, in _read_packet\n    packet.check_error()\n  File "/home/yalex/web2py/gluon/contrib/pymysql/connections.py", line 393, in check_error\n    err.raise_mysql_exception(self._data)\n  File "/home/yalex/web2py/gluon/contrib/pymysql/err.py", line 107, in raise_mysql_exception\n    raise errorclass(errno, errval)\nOperationalError: (1142, u"CREATE command denied to user \'asterisk\'@\'localhost\' for table \'auth_user\'")\n'
+p503
+s.

@@ -1,0 +1,4 @@
+{{('message' in globals())}}
+{{extend 'layout.html'}}
+
+{{=grid}}
